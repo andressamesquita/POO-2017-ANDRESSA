@@ -1,0 +1,7 @@
+	Diferentemente da Programação Estruturada, a Programação Orientada a Objetos é um grande conjunto de classes interligadas entre si com o intuito de
+promover a comunicação entre as mesmas e, consequentemente, o funcionamento do sistema em que cada classe fica responsável pela operação que está apta.
+	A classe é a abstração feita em relação a determinado objeto real onde são elencados os atributos(características) e comportamentos do mesmo. 
+Já o objeto é o que será construido a partir dessa abstração, uma vez que ele passa a existir quando é feita a instanciação da classe já que o mesmo 
+só existe em tempo de execução.
+	A variável declarada na classe refere-se ao atributo do objeto, determina-se como "Variavel referência" quando é feita a instanciação pelo new que 
+aloca o endereço em memória, não sendo, então, uma simples variável.   
