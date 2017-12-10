@@ -1,0 +1,4 @@
+06) O método "atualiza" é necessário na classe Conta, porque ele obriga as classes filhas a reescreverem o metodo. 
+Se excluirmos o mesmo da classe "Conta" e deixarmos nas classes filhas, dará erro de compilação.
+
+Desafio: Porque uma array guarda as referências dos objetos tipo Conta.
