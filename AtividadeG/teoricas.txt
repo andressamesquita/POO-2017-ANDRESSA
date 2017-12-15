@@ -1,0 +1,7 @@
+01 - Não, pois são classes que apenas idealizam de forma genérica um tipo sendo usadas apenas quando estendidas.
+
+02 - O método abstrato "imprimaAlgo()" deve ser reescrito(@Override) na "ClasseConcreta" e implementado.
+
+03 - O programa não irá compilar, pois a classe filha é obrigada a implementar o metodo abstrato que, no caso, ela irá usar.
+
+07 - Porque uma array guarda as referências dos objetos do tipo "FiguraGeométrica".
