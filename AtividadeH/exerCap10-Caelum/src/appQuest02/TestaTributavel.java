@@ -1,0 +1,19 @@
+package appQuest02;
+import modelQuest02.*;
+
+public class TestaTributavel {
+
+	public static void main(String[] args) {
+		
+		ContaCorrente cc = new ContaCorrente();
+		cc.deposita(100);
+		System.out.println(cc.calculaTributos());
+		
+		// testando polimorfismo:
+		Tributavel t = cc;
+		System.out.println(t.calculaTributos());
+			
+
+	}
+
+}
